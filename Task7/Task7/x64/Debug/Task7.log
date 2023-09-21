@@ -1,0 +1,3 @@
+﻿  nestedCondition.cpp
+C:\Users\kirut\source\repos\Task7\Task7\nestedCondition.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Task7.vcxproj -> C:\Users\kirut\source\repos\Task7\x64\Debug\Task7.exe
