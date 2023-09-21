@@ -1,0 +1,39 @@
+1011 = 11
+
+lastnum = 1011 mod 10 = 1
+1011 = 1011/10
+101
+
+0 += 1 *1
+
+decimalVal =1
+
+base = 2
+
+
+
+
+NEXT
+lastnum = 101 mod 10 = 1
+101 = 101/10
+10
+
+1 += 1 * 2
+
+decimalVal =3
+
+base = 4
+
+NEXT
+
+lastnum = 10 mod 10 =0
+10 = 10/10
+1
+3+= 0*4
+base=8
+
+NEXT
+lastnum= 1 mod 10 =1
+1 = 1/10
+0
+3+ = 1*8 == 11
