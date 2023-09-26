@@ -1,0 +1,4 @@
+﻿  insertElement.cpp
+C:\Users\kirut\source\repos\Task11\Task11\insertElement.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\kirut\source\repos\Task11\Task11\insertElement.cpp(12,6): warning C4101: 'enteredElements': unreferenced local variable
+  Task11.vcxproj -> C:\Users\kirut\source\repos\Task11\x64\Debug\Task11.exe
