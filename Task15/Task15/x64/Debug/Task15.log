@@ -1,0 +1,3 @@
+﻿  reverseArr.cpp
+C:\Users\kirut\source\repos\Task15\Task15\reverseArr.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Task15.vcxproj -> C:\Users\kirut\source\repos\Task15\x64\Debug\Task15.exe
