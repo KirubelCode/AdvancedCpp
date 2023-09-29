@@ -1,0 +1,3 @@
+﻿  countWords.cpp
+C:\Users\kirut\source\repos\Task18\Task18\countWords.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Task18.vcxproj -> C:\Users\kirut\source\repos\Task18\x64\Debug\Task18.exe
